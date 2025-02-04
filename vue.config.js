@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  publicPath: '/lottery',
+  publicPath: '/lottery-plus',
   chainWebpack: config => {
     const resolve = dir => path.join(__dirname, dir);
     const svgRule = config.module.rule('svg');
