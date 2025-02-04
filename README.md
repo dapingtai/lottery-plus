@@ -2,6 +2,7 @@
 ## 致謝
 基於[vasttian/lottery](https://github.com/vasttian/lottery)作為基礎進行加強和優化，特此感謝原作者的辛勤付出。
 由於作者標註機率公平，故特此獨立出來，並將機率設置為可權重調整，以符合實際需求。
+[Demo](https://dapingtai.github.io/lottery-plus/#/)
 
 ## 概述
 這是一個基於Vue2開發的抽獎程式，具有基本抽獎和帶權重抽獎兩種模式。程式允許配置多個獎項並支持為每個號碼設置權重，實現靈活的抽獎需求。

@@ -18,7 +18,7 @@ export default new Vuex.Store({
       allowRepeatJoin: false
     },
     config: {
-      subject: 'Foxconn X Fii X Nvdia ',
+      subject: 'Lottery Plus',
       number: 50,
       firstPrize: 1,
       name: '一等獎',
